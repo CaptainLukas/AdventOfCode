@@ -45,5 +45,4 @@ def day10(input):
     return (sum, scores[int((len(scores)/2) -0.5)])
     
 input = 'day10_input.txt'
-#input = 'test.txt'
 print(day10(input))
